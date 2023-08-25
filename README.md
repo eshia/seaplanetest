@@ -1,2 +1,2 @@
 # seaplanetest
-My submission for the technical assessment for 
+My submission for the technical assessment for Seaplane.
